@@ -21,7 +21,7 @@ Lista de projetos, trabalhos e repositórios criados durante a faculdade.
 - [Aula de introdução a programação orientada a objeto](github.com/Tsukalos/oop-lessons)
 - [Tutorial de Geração de mapas em Unity - Perlin Noise - #INCOMPLETO](github.com/Tsukalos/unity-map-gen)
 - [juice-arduino - Repositório do projeto de uma máquina dispensadora de sucos usando arduino](github.com/Tsukalos/juice-arduino)
-- [Punhos de Urna](https://dead-battery.itch.io/punhos-de-urna-demo)
+- [Jogo - DEMO - Punhos de Urna, desenvolvido com Dead Battery Studio](https://dead-battery.itch.io/punhos-de-urna-demo)
 - Global Game Jam - Organização LTIA - [2018, Ajudante](https://globalgamejam.org/2018/jam-sites/ltia-laborat%C3%B3rio-de-tecnologia-da-informa%C3%A7%C3%A3o-aplicada), [2019](https://globalgamejam.org/2019/jam-sites/ltia-laborat%C3%B3rio-de-tecnologia-da-informa%C3%A7%C3%A3o-aplicada)
 - Global Game Jam - Participante - [2018](https://globalgamejam.org/2018/games/pigeon-war), [2019](https://globalgamejam.org/2019/games/hometower)
 - Café Game Jam 2018 - Organizador sede LTIA e Participante - [Job Estimulator](https://geleias-sucos.itch.io/job-stimulator)
