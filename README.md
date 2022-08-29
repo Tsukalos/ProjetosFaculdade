@@ -1,2 +1,3 @@
-# ProjetosFaculdade
+# Projetos Faculdade
 Lista de projetos e repositórios criados durante a faculdade. 
+
