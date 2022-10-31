@@ -25,3 +25,6 @@ Lista de projetos, trabalhos e repositórios criados durante a faculdade.
 - Global Game Jam - Organização LTIA - [2018, Ajudante](https://globalgamejam.org/2018/jam-sites/ltia-laborat%C3%B3rio-de-tecnologia-da-informa%C3%A7%C3%A3o-aplicada), [2019](https://globalgamejam.org/2019/jam-sites/ltia-laborat%C3%B3rio-de-tecnologia-da-informa%C3%A7%C3%A3o-aplicada)
 - Global Game Jam - Participante - [2018](https://globalgamejam.org/2018/games/pigeon-war), [2019](https://globalgamejam.org/2019/games/hometower)
 - Café Game Jam 2018 - Organizador sede LTIA e Participante - [Job Estimulator](https://geleias-sucos.itch.io/job-stimulator)
+
+## Monografia
+- [Inteligência Artificial Explicável aplicada a detecção de desinformação](https://dco-unesp-bauru.github.io/tcc-bcc-2020-2/trabalho/2020/12/01/PedroLS.html)
